@@ -17,5 +17,5 @@ This is a fleet management application built with **.NET 8**, following **Domain
 - **Testing**: xUnit + Moq  
 - **Validation**: FluentValidation
 
-- ### Prerequisites  
+## Prerequisites  
 - [.NET 8 SDK](https://dotnet.microsoft.com/download)
